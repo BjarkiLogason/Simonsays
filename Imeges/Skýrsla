@@ -2,3 +2,5 @@
 # Lýsing á simon says kassa....Simon Says er vinsæll barnaleikur sem oft er spilaður í hópum. Í leiknum er einn leikmaður útnefndur „Simon“ og gefur hinum spilurunum skipanir eins og „Simon segir að snerta nefið á þér“ eða „Simon segir að hoppa á annan fótinn“. Hinir leikmenn verða að fylgja skipunum ef setningin „Simon segir“ er innifalin á undan skipuninni. Ef Simon gefur skipun án þess að segja "Simon segir," og leikmaður fer eftir þeirri skipun, þá er hann úr leik.
 Simon Says kassinn er kassi eða rafrænn leikur sem spilar útgáfu af Simon Says leiknum. Leikurinn hefur fjóra litaða hnappa sem kvikna í ákveðnu mynstri og leikmenn verða að endurtaka mynstrið með því að ýta á hnappana í réttri röð. Leikurinn verður smám saman erfiðari eftir því sem mynstrið verður lengra og flóknara. Það getur verið notað sem skemmtileg leið til að prófa minni einstaklings.
 [SimonSays.ino](https://github.com/sparkfun/SIK-Guide-Code/blob/master/SIK_Circuit_2C-SimonSays/SIK_Circuit_2C-SimonSays.ino)
+
+[texti](linkur)
